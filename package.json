@@ -1,0 +1,24 @@
+{
+  "name": "projetoprogweb",
+  "version": "1.0.0",
+  "description": "### **Descrição do Projeto**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizaugustoliveira/ProjetoProgWeb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luizaugustoliveira/ProjetoProgWeb/issues"
+  },
+  "homepage": "https://github.com/luizaugustoliveira/ProjetoProgWeb#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
